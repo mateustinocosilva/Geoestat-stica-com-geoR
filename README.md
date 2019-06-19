@@ -3,10 +3,12 @@ Rotina para análises geoestatísticas com o pacote geoR da linguagem R.
 
                                       Script para  Análises Geoestatístiscas
   Autor: Mateus Tinôco Silva
+  
   email: mateus-tinoco@hotmail.com
 
 
 Referências: 
+
   The geoR package: Paulo J. Ribeiro Jr e Peter J. Diggle 
       http://www.leg.ufpr.br/geoR/geoRdoc/geoR.pdf
       
